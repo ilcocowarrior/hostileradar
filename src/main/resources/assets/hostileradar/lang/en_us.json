@@ -1,0 +1,5 @@
+{
+  "key.hostileradar.toggle": "Toggle Hostile Radar",
+  "key.categories.hostileradar": "Hostile Radar",
+  "hud.hostileradar.count": "Hostiles: %s"
+}
